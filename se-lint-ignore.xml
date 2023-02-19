@@ -6,4 +6,10 @@
 			<reason>The comma has to go between the single/double quotes since there's a question mark in the inner one.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-4-2-3.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>The “young” is an air-quote, not dialog.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
