@@ -38,10 +38,6 @@ section > header [epub|type~="epigraph"]{
 	text-align: initial;
 }
 
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
 	section > header [epub|type~="epigraph"]{
 		display: table;
@@ -113,33 +109,44 @@ p span.i8{
 }
 /* end of poem/verse/song */
 
+/* custom */
 q{
 	text-style: italic;
 }
 
+section[epub|type~="dedication"] blockquote{
+	text-align: center;
+}
+
+section[epub|type~="dedication"] b{
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] > blockquote > header{
+	margin-bottom: 1em;
+}
+
+section[epub|type~="dedication"] > blockquote > header p{
+	text-align: center;
+}
+
 #dedication-1-1 > p,
-#dedication-3-1 > p{
+#dedication-3-1 > p,
+#dedication-4-1 > p{
 	font-style: italic;
 	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
 }
 
-section[epub|type~="dedication"] blockquote {
-	text-align: center;
-}
-
-section[epub|type~="dedication"] b {
+#dedication-4-1 span{
 	font-style: normal;
-	font-variant: small-caps;
 }
 
-section[epub|type~="dedication"] > blockquote > header {
-	margin-bottom: 1em;
-}
-
-section[epub|type~="dedication"] > blockquote > header p {
-	text-align: center;
+#dedication-1-2 footer p:last-of-type,
+#dedication-4-1 footer{
+	text-align: initial;
 }
 
 #prologue-4-1{
@@ -153,3 +160,4 @@ section[epub|type~="dedication"] > blockquote > header p {
 #chapter-4-1-1 blockquote:last-of-type p{
 	text-indent: 0;
 }
+/* end of custom */
