@@ -113,6 +113,10 @@ p span.i8{
 }
 /* end of poem/verse/song */
 
+q{
+	text-style: italic;
+}
+
 #dedication-1-1 > p,
 #dedication-3-1 > p{
 	font-style: italic;
