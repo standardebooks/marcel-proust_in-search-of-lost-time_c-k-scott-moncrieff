@@ -138,6 +138,14 @@ section[epub|type~="dedication"] > blockquote > header p {
 	text-align: center;
 }
 
+#prologue-4-1{
+	margin-top: 20vh;
+}
+
+#prologue-4-1 [epub|type~="bridgehead"] + *{
+	margin-top: 2em;
+}
+
 #chapter-4-1-1 blockquote:last-of-type p{
 	text-indent: 0;
 }
