@@ -63,6 +63,7 @@ footer{
 /* end of letters
 
 /* poem/verse/song */
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
