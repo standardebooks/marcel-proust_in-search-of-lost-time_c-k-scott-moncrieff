@@ -39,9 +39,12 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008115112</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The first-person account of a man’s introspections on his life and examination of memory.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Beginning with a memory as a young child of being desperate to see his mother one night at bedtime, &lt;i&gt;In Search of Lost Time&lt;/i&gt;’s narrator takes us through his growing up, first crush, entrance into society, his obsession and jealousy for a young woman, and ultimately his discovery that what he lost in his younger years can be regained.&lt;/p&gt;
+			&lt;p&gt;Considered by many to be the “definitive” modern novel, &lt;i&gt;In Search of Lost Time&lt;/i&gt; is also the longest. Although at its essence a bildungsroman, &lt;a href="https://standardebooks.org/ebooks/marcel-proust"&gt;Proust&lt;/a&gt; eschewed the narrative constrictions of the previous century and allowed his narrator’s words, like his memories, to dart from subject to subject. Common themes are memory, jealousy, obsession, and the uselessness of being “in society.”&lt;/p&gt;
+			&lt;p&gt;C. K. Scott Moncrief’s English translation of In Search of Lost Time is as highly regarded as the novel itself. Moncrief used &lt;i&gt;Remembrance of Things Past&lt;/i&gt; as the title, which was not a translation of the French title but a quote from a Shakespearean sonnet; this edition uses the translated title that the work is best known by in English. Just as Proust passed away before finalizing the last three volumes, so Moncrief passed away before completing his translation; the final volume was translated by Frederick Blossom.&lt;/p&gt;
+			&lt;p&gt;Only the first four translated volumes are currently available in the public domain; the remaining three will be added to this edition as they become public domain over the next few years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- transcriptions -->
@@ -60,6 +63,8 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.97530</dc:source>
 		<!-- The Guermantes Way -->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.503998</dc:source>
+		<!-- Cities of the Plain -->
+		<dc:source>https://archive.org/details/citiesofplain00prourich</dc:source>
 		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
