@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>s-020</code>
+			<reason>The "frontmatter" is within the individual volumes, not the front of the book, so no halftitle is needed.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-1-1.xhtml">
 		<ignore>
 			<code>t-042</code>
