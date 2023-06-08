@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-08T17:20:08Z</dc:date>
+		<meta property="dcterms:modified">2023-06-08T17:20:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,9 +42,9 @@
 		<dc:description id="description">The first-person account of a man’s introspections on his life and examination of memory.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Beginning with a memory as a young child of being desperate to see his mother one night at bedtime, &lt;i&gt;In Search of Lost Time&lt;/i&gt;’s narrator takes us through his growing up, first crush, entrance into society, his obsession and jealousy for a young woman, and ultimately his discovery that what he lost in his younger years can be regained.&lt;/p&gt;
-			&lt;p&gt;Considered by many to be the “definitive” modern novel, &lt;i&gt;In Search of Lost Time&lt;/i&gt; is also the longest. Originally conceived and begun as a three-volume work, &lt;a href="https://standardebooks.org/ebooks/marcel-proust"&gt;Proust&lt;/a&gt; kept adding material as he went until it reached its present seven volumes (requiring a constant update to the last volume, which he wrote coeval with the first volume). Although at its essence a bildungsroman, Proust eschewed the narrative constrictions of the previous century and allowed his narrator’s words, like his memories, to dart from subject to subject. Common themes are memory, jealousy, obsession, and the uselessness of being “in society.”&lt;/p&gt;
-			&lt;p&gt;C. K. Scott Moncrieff’s English translation of In Search of Lost Time is as highly regarded as the novel itself. Moncrieff used &lt;i&gt;Remembrance of Things Past&lt;/i&gt; as the title, which was not a translation of the French title but a quote from a Shakespearean sonnet; this edition uses the translated title that the work is best known by in English. Just as Proust passed away before finalizing the last three volumes, so Moncrieff passed away before completing his translation; the final volume was translated by Frederick Blossom.&lt;/p&gt;
-			&lt;p&gt;Only the first four translated volumes are currently available in the public domain; the remaining three will be added to this edition as they become public domain over the next few years.&lt;/p&gt;
+			&lt;p&gt;Considered by many to be the “definitive” modern novel, &lt;i&gt;In Search of Lost Time&lt;/i&gt; is also one of the longest. Originally conceived and begun as a three-volume work, &lt;a href="https://standardebooks.org/ebooks/marcel-proust"&gt;Proust&lt;/a&gt; kept adding material until it reached its present seven volumes (requiring a constant update to the last volume, which he wrote coeval with the first volume). Although at its essence a bildungsroman, Proust eschewed the narrative constrictions of the previous century and allowed his narrator’s words, like his memories, to dart from subject to subject. Common themes are memory, jealousy, obsession, and the uselessness of being “in society.”&lt;/p&gt;
+			&lt;p&gt;C. K. Scott Moncrieff’s English translation is as highly regarded as the novel itself. Moncrieff used &lt;i&gt;Remembrance of Things Past&lt;/i&gt; as the title, which was not a translation of the French title but a quote from a Shakespearean sonnet; this edition uses the translated title that the work is best known by in English. Just as Proust passed away before finalizing the last three volumes, so Moncrieff passed away before completing his translation; the final volume was translated by Frederick Blossom.&lt;/p&gt;
+			&lt;p&gt;Only the first four translated volumes are currently available in the public domain. The remaining three will be added to this edition as they become public domain over the next few years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- transcriptions -->
@@ -65,9 +65,9 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.503998</dc:source>
 		<!-- Cities of the Plain -->
 		<dc:source>https://archive.org/details/citiesofplain00prourich</dc:source>
-		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually. Some italics without semantics are left as-is in chapter-4-2-2 to preserve the visual rhythm of the section.</meta>
+		<meta property="se:word-count">927945</meta>
+		<meta property="se:reading-ease.flesch">56.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marcel-proust_in-search-of-lost-time_c-k-scott-moncrieff</meta>
 		<dc:creator id="author">Marcel Proust</dc:creator>
@@ -113,6 +113,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
