@@ -8,10 +8,6 @@
 	</file>
 	<file path="chapter-2-1-1.xhtml">
 		<ignore>
-			<code>y-013</code>
-			<reason>The comma has to go between the single/double quotes since there's a question mark in the inner one.</reason>
-		</ignore>
-		<ignore>
 			<code>y-022</code>
 			<reason>The consecutive quotations are per the scans.</reason>
 		</ignore>
