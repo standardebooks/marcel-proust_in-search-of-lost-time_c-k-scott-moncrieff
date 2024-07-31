@@ -67,7 +67,7 @@
 		<!-- Cities of the Plain -->
 		<dc:source>https://archive.org/details/citiesofplain00prourich</dc:source>
 		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually. Some italics without semantics are left as-is in chapter-4-2-2 to preserve the visual rhythm of the section.</meta>
-		<meta property="se:word-count">927941</meta>
+		<meta property="se:word-count">927938</meta>
 		<meta property="se:reading-ease.flesch">56.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marcel-proust_in-search-of-lost-time_c-k-scott-moncrieff</meta>
