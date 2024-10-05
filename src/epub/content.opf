@@ -42,6 +42,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">The first-person account of a man’s introspections on his life and examination of memory.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Through seven volumes, the narrator of &lt;i&gt;In Search of Lost Time&lt;/i&gt; recounts his memories as they occur to him. An innocuous treat—say, a small cake paired with a cup of tea—may awaken memories buried deep within the narrator’s mind; memories cause more memories to surface. Like the cathedral builders of old, a whole life and the world around it are thus formed anew, slowly and methodically, by uniting pieces of the narrator’s life for the sake of the reader.&lt;/p&gt;
