@@ -50,7 +50,7 @@
 			&lt;p&gt;This recollection takes us through the narrator’s childhood, weaving the social web his family finds itself entangled in, his first crush and coming of age, his gradual appreciation of art while finding his place into society, his hurtful obsession over a young woman, and, ultimately, the consolation that what had been lost in his youth can be regained.&lt;/p&gt;
 			&lt;p&gt;Firmly grounded in Modernism, &lt;i&gt;In Search of Lost Time&lt;/i&gt; is not a work about memories but memory. By leading the reader in circles, sometimes on a glorious wild goose chase, &lt;a href="https://standardebooks.org/ebooks/marcel-proust"&gt;Proust&lt;/a&gt; holds a mirror in front of the reader, sending us back to our own memories and experiences, no matter how pleasant or uncomfortable. By its very nature, it’s a difficult exercise about one of the defining features of humanity: our ability to manipulate time by recalling and, often, recreating it.&lt;/p&gt;
 			&lt;p&gt;C. K. Scott Moncrieff’s English translation is as highly regarded as the novel itself. Moncrieff used &lt;i&gt;Remembrance of Things Past&lt;/i&gt; as the title, which was not a translation of the French title but a quote from a Shakespearean sonnet; this edition uses the translated title that the work is best known by in English. Just as Proust passed away before finalizing the last three volumes, so Moncrieff passed away before completing his translation; the final volume was translated by his (and Proust’s) friend Sydney Schiff, under the pseudonym Stephen Hudson.&lt;/p&gt;
-			&lt;p&gt;Only the first four translated volumes are currently available in the public domain. The remaining three will be added to this edition as their copyrights expire over the next few years.&lt;/p&gt;
+			&lt;p&gt;Only the first five translated volumes are currently available in the public domain. The remaining one will be added to this edition after its copyright expires in 2026.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- transcriptions -->
@@ -71,6 +71,8 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.503998</dc:source>
 		<!-- Cities of the Plain -->
 		<dc:source>https://archive.org/details/citiesofplain00prourich</dc:source>
+		<!-- The Captive -->
+		<dc:source>https://archive.org/details/captive0000marc</dc:source>
 		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually. Some italics without semantics are left as-is in chapter-4-2-2 to preserve the visual rhythm of the section.</meta>
 		<meta property="se:word-count">927938</meta>
 		<meta property="se:reading-ease.flesch">56.73</meta>
@@ -87,6 +89,7 @@
 		<meta property="se:name.person.full-name" refines="#translator">Charles Kenneth Scott Moncrieff</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50005771</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Henri Gervex</dc:contributor>
 		<meta property="file-as" refines="#artist">Gervex, Henri</meta>
@@ -135,6 +138,7 @@
 		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-4.xhtml" id="book-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-5.xhtml" id="book-5.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-1.xhtml" id="chapter-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-3.xhtml" id="chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
@@ -151,6 +155,10 @@
 		<item href="text/chapter-4-2-2.xhtml" id="chapter-4-2-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-4-2-3.xhtml" id="chapter-4-2-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-4-2-4.xhtml" id="chapter-4-2-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-1-1.xhtml" id="chapter-5-1-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-1-2.xhtml" id="chapter-5-1-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-2-2.xhtml" id="chapter-5-2-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-2-3.xhtml" id="chapter-5-2-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication-1-1.xhtml" id="dedication-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dedication-1-2.xhtml" id="dedication-1-2.xhtml" media-type="application/xhtml+xml"/>
@@ -158,6 +166,8 @@
 		<item href="text/dedication-3-1.xhtml" id="dedication-3-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dedication-3-2.xhtml" id="dedication-3-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dedication-4-1.xhtml" id="dedication-4-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication-5-1.xhtml" id="dedication-5-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/part-2-1.xhtml" id="part-2-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-2-2.xhtml" id="part-2-2.xhtml" media-type="application/xhtml+xml"/>
@@ -165,6 +175,8 @@
 		<item href="text/part-3-2.xhtml" id="part-3-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-4-1.xhtml" id="part-4-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-4-2.xhtml" id="part-4-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-5-1.xhtml" id="part-5-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-5-2.xhtml" id="part-5-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/prologue-4-1.xhtml" id="prologue-4-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -206,6 +218,15 @@
 		<itemref idref="chapter-4-2-2.xhtml"/>
 		<itemref idref="chapter-4-2-3.xhtml"/>
 		<itemref idref="chapter-4-2-4.xhtml"/>
+		<itemref idref="book-5.xhtml"/>
+		<itemref idref="dedication-5-1.xhtml"/>
+		<itemref idref="part-5-1.xhtml"/>
+		<itemref idref="chapter-5-1-1.xhtml"/>
+		<itemref idref="chapter-5-1-2.xhtml"/>
+		<itemref idref="part-5-2.xhtml"/>
+		<itemref idref="chapter-5-2-2.xhtml"/>
+		<itemref idref="chapter-5-2-3.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
