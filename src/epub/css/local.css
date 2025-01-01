@@ -104,6 +104,11 @@ p span.i4{
 	text-indent: -1em;
 }
 
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
 p span.i8{
 	padding-left: 9em;
 	text-indent: -1em;
@@ -135,20 +140,25 @@ section[epub|type~="dedication"] > blockquote > header p{
 
 #dedication-1-1 > p,
 #dedication-3-1 > p,
-#dedication-4-1 > p{
+#dedication-4-1 > p,
+#dedication-5-1 > p{
 	font-style: italic;
 	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
 }
 
+#dedication-1-2 footer p:last-of-type,
+#dedication-4-1 footer{
+	text-align: initial;
+}
+
 #dedication-4-1 span{
 	font-style: normal;
 }
 
-#dedication-1-2 footer p:last-of-type,
-#dedication-4-1 footer{
-	text-align: initial;
+#dedication-5-1{
+	margin-top: 20vh;
 }
 
 #prologue-4-1{
