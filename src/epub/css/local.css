@@ -145,8 +145,7 @@ section[epub|type~="dedication"] > blockquote > header p{
 
 #dedication-1-1 > p,
 #dedication-3-1 > p,
-#dedication-4-1 > p,
-#dedication-5-1 > p{
+#dedication-4-1 > p{
 	font-style: italic;
 	margin-bottom: 1em;
 	text-align: center;
@@ -162,8 +161,54 @@ section[epub|type~="dedication"] > blockquote > header p{
 	font-style: normal;
 }
 
+/* book 5 and 6 centered dedications */
+#dedication-5-1,
+#dedication-6-1{
+	text-align: center;
+}
+
+#dedication-5-1 > *,
+#dedication-6-1 > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+}
+
+@supports(display: flex){
+	#dedication-5-1,
+	#dedication-6-1{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	#dedication-5-1 > *,
+	#dedication-6-1 > *{
+		margin: 0;
+	}
+}
+/* end of book 5 and 6 centered dedications */
+
 #dedication-5-1{
-	margin-top: 20vh;
+	font-style: italic;
+}
+
+#dedication-6-1 p{
+	margin-bottom: .5em;
+	text-indent: 0;
+}
+
+#dedication-6-1 p:first-child {
+	font-variant: small-caps;
+}
+
+#dedication-6-1 b {
+	font-size: 1.2em;
 }
 
 #prologue-4-1{
