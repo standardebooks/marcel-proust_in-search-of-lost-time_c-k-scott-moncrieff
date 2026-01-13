@@ -113,6 +113,11 @@ p span.i8{
 	padding-left: 9em;
 	text-indent: -1em;
 }
+
+p span.i11{
+	padding-left: 12em;
+	text-indent: -1em;
+}
 /* end of poem/verse/song */
 
 /* custom */
