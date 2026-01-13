@@ -74,6 +74,8 @@
 		<dc:source>https://archive.org/details/citiesofplain00prourich</dc:source>
 		<!-- The Captive -->
 		<dc:source>https://archive.org/details/captive0000marc</dc:source>
+		<!-- The Sweet Cheat Gone -->
+		<dc:source>https://archive.org/details/sweetcheatgone0000marc</dc:source>
 		<meta property="se:production-notes">At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually. Some italics without semantics are left as-is in chapter-4-2-2 to preserve the visual rhythm of the section.</meta>
 		<meta property="se:word-count">1105967</meta>
 		<meta property="se:reading-ease.flesch">56.83</meta>
