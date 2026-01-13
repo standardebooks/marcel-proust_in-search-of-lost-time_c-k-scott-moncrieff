@@ -12,6 +12,20 @@
 			<reason>The “young” is an air-quote, not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-6-2.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>The word (Souann) is not dialog.</reason>
+		</ignore>
+		<ignore>
+			<code>t-032</code>
+			<reason>The abbreviation is just the X, the period is the end of the sentence.</reason>
+		</ignore>
+		<ignore>
+			<code>y-031</code>
+			<reason>The word (Souann) is not dialog.</reason>
+		</ignore>
+	</file>
 	<file path="content.opf">
 		<ignore>
 			<code>s-020</code>
