@@ -209,11 +209,11 @@ section[epub|type~="dedication"] > blockquote > header p{
 	text-indent: 0;
 }
 
-#dedication-6-1 p:first-child {
+#dedication-6-1 p:first-child{
 	font-variant: small-caps;
 }
 
-#dedication-6-1 b {
+#dedication-6-1 b{
 	font-size: 1.2em;
 }
 
