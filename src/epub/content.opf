@@ -54,12 +54,14 @@
 			&lt;p&gt;Only the first six translated volumes are currently available in the public domain. The remaining one will be added to this edition after its copyright expires next year.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<!-- transcriptions -->
+		<!-- TRANSCRIPTIONS -->
 		<!-- Swann's Way -->
 		<dc:source>https://www.gutenberg.org/ebooks/7178</dc:source>
 		<!-- Within a Budding Grove -->
 		<dc:source>https://www.gutenberg.org/ebooks/63532</dc:source>
-		<!-- scans -->
+		<!-- The Guermantes Way -->
+		<dc:source>https://www.gutenberg.org/ebooks/73425</dc:source>
+		<!-- SCANS -->
 		<!-- Swann's Way, vol. 1 -->
 		<dc:source>https://archive.org/details/dli.bengal.10689.16985</dc:source>
 		<!-- Swann's Way, vol. 2 -->
