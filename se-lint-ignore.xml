@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-2-1-1.xhtml">
-		<ignore>
-			<code>y-022</code>
+		<ignore code="y-022">
 			<reason>The consecutive quotations are per the scans.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-4-2-3.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>The “young” is an air-quote, not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-6-2.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>The word (Souann) is not dialog.</reason>
 		</ignore>
-		<ignore>
-			<code>t-032</code>
+		<ignore code="t-032">
 			<reason>The abbreviation is just the X, the period is the end of the sentence.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>The word (Souann) is not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="content.opf">
-		<ignore>
-			<code>s-020</code>
+		<ignore code="s-020">
 			<reason>The "frontmatter" is within the individual volumes, not the front of the book, so no halftitle is needed.</reason>
 		</ignore>
 	</file>
