@@ -1,0 +1,1 @@
+At the time of initial production, the third volume (The Guermantes Way) was in process but not complete at pgdp.net; the in-progress files were proofed page-by-page and final corrections made manually. Some italics without semantics are left as-is in chapter-4-2-2 to preserve the visual rhythm of the section.
