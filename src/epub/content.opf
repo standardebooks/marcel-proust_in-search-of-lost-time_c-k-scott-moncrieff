@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff</dc:identifier>
 		<dc:date>2023-06-08T17:20:08Z</dc:date>
@@ -52,14 +52,14 @@
 		<meta id="collection-6" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-6">set</meta>
 		<meta property="group-position" refines="#collection-6">41</meta>
-		<dc:description id="description">The first-person account of a man’s introspections on his life and examination of memory.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The first-person account of a man’s introspections on his life and examination of memory.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Through seven volumes, the narrator of &lt;i&gt;In Search of Lost Time&lt;/i&gt; recounts his memories as they occur to him. An innocuous treat—say, a small cake paired with a cup of tea—may awaken memories buried deep within the narrator’s mind; memories cause more memories to surface. Like the cathedral builders of old, a whole life and the world around it are thus formed anew, slowly and methodically, by uniting pieces of the narrator’s life for the sake of the reader.&lt;/p&gt;
 			&lt;p&gt;This recollection takes us through the narrator’s childhood, weaving the social web his family finds itself entangled in, his first crush and coming of age, his gradual appreciation of art while finding his place into society, his hurtful obsession over a young woman, and, ultimately, the consolation that what had been lost in his youth can be regained.&lt;/p&gt;
 			&lt;p&gt;Firmly grounded in Modernism, &lt;i&gt;In Search of Lost Time&lt;/i&gt; is not a work about memories but memory. By leading the reader in circles, sometimes on a glorious wild goose chase, &lt;a href="https://standardebooks.org/ebooks/marcel-proust"&gt;Proust&lt;/a&gt; holds a mirror in front of the reader, sending us back to our own memories and experiences, no matter how pleasant or uncomfortable. By its very nature, it’s a difficult exercise about one of the defining features of humanity: our ability to manipulate time by recalling and, often, recreating it.&lt;/p&gt;
 			&lt;p&gt;C. K. Scott Moncrieff’s English translation is as highly regarded as the novel itself. Moncrieff used &lt;i&gt;Remembrance of Things Past&lt;/i&gt; as the title, which was not a translation of the French title but a quote from a Shakespearean sonnet; this edition uses the translated title that the work is best known by in English. Just as Proust passed away before finalizing the last three volumes, so Moncrieff passed away before completing his translation; the final volume was translated by his (and Proust’s) friend Sydney Schiff, under the pseudonym Stephen Hudson.&lt;/p&gt;
 			&lt;p&gt;Only the first six translated volumes are currently available in the public domain. The remaining one will be added to this edition after its copyright expires next year.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- TRANSCRIPTIONS -->
 		<!-- Swann's Way -->
