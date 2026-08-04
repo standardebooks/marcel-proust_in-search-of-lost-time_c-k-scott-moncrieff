@@ -52,7 +52,7 @@
 		<meta id="collection-6" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-6">set</meta>
 		<meta property="group-position" refines="#collection-6">41</meta>
-		<dc:abstract>The first-person account of a man’s introspections on his life and examination of memory.</dc:abstract>
+		<meta property="schema:abstract">The first-person account of a man’s introspections on his life and examination of memory.</meta>
 		<dc:description>
 			&lt;p&gt;Through seven volumes, the narrator of &lt;i&gt;In Search of Lost Time&lt;/i&gt; recounts his memories as they occur to him. An innocuous treat—say, a small cake paired with a cup of tea—may awaken memories buried deep within the narrator’s mind; memories cause more memories to surface. Like the cathedral builders of old, a whole life and the world around it are thus formed anew, slowly and methodically, by uniting pieces of the narrator’s life for the sake of the reader.&lt;/p&gt;
 			&lt;p&gt;This recollection takes us through the narrator’s childhood, weaving the social web his family finds itself entangled in, his first crush and coming of age, his gradual appreciation of art while finding his place into society, his hurtful obsession over a young woman, and, ultimately, the consolation that what had been lost in his youth can be regained.&lt;/p&gt;
