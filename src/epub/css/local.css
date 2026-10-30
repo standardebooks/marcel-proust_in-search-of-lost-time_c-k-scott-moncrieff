@@ -168,17 +168,11 @@ section[epub|type~="dedication"] > blockquote > header p{
 }
 
 /* book 5 and 6 centered dedications */
-#dedication-1-1,
-#dedication-3-1,
-#dedication-4-1,
 #dedication-5-1,
 #dedication-6-1{
 	text-align: center;
 }
 
-#dedication-1-1 > *,
-#dedication-3-1 > *,
-#dedication-4-1 > *,
 #dedication-5-1 > *,
 #dedication-6-1 > *{
 	display: inline-block;
@@ -188,9 +182,6 @@ section[epub|type~="dedication"] > blockquote > header p{
 }
 
 @supports(display: flex){
-	#dedication-1-1,
-	#dedication-3-1,
-	#dedication-4-1,
 	#dedication-5-1,
 	#dedication-6-1{
 		align-items: center;
@@ -202,26 +193,12 @@ section[epub|type~="dedication"] > blockquote > header p{
 		padding-top: 3em;
 	}
 
-	#dedication-1-1 > *,
-	#dedication-3-1 > *,
-	#dedication-4-1 > *,
 	#dedication-5-1 > *,
 	#dedication-6-1 > *{
 		margin: 0;
 	}
 }
 /* end of book 5 and 6 centered dedications */
-
-@supports(display: flex){
-	#dedication-1-1 footer,
-	#dedication-3-1 footer{
-		align-self: flex-end;
-	}
-
-	#dedication-4-1 footer{
-		align-self: flex-start;
-	}
-}
 
 #dedication-5-1{
 	font-style: italic;
@@ -232,8 +209,13 @@ section[epub|type~="dedication"] > blockquote > header p{
 	text-indent: 0;
 }
 
-#dedication-6-1 p:first-child{
-	font-variant: small-caps;
+#dedication-6-1 > h3{
+	break-after: auto;
+	break-inside: auto;
+	font-size: 1em;
+	font-weight: normal;
+	hyphens: auto;
+	margin-bottom: .5em;
 }
 
 #dedication-6-1 b{
