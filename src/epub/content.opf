@@ -117,9 +117,10 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Laura Natal Rodrigues</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Rodrigues, Laura Natal</meta>
+		<meta property="file-as" refines="#transcriber-3">Natal Rodrigues, Laura</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Emmanuel Ackerman</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Ackerman, Emmanuel</meta>
