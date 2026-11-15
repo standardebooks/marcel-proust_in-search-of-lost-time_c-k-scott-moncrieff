@@ -85,7 +85,7 @@
 		<dc:source>https://archive.org/details/captive0000marc</dc:source>
 		<!-- The Sweet Cheat Gone -->
 		<dc:source>https://archive.org/details/sweetcheatgone0000marc</dc:source>
-		<meta property="schema:wordCount">1215698</meta>
+		<meta property="schema:wordCount">1215694</meta>
 		<meta property="schema:educationalLevel">56.63</meta>
 		<link href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
