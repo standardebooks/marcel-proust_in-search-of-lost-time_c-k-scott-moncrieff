@@ -181,7 +181,7 @@ section[epub|type~="dedication"] > blockquote > header p{
 	max-width: 80%;
 }
 
-@supports(display: flex){
+@supports(display: flex) and (min-height: calc(98vh - 3em)){
 	#dedication-5-1,
 	#dedication-6-1{
 		align-items: center;
